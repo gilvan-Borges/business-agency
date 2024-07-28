@@ -76,7 +76,7 @@ h1{
     top: -100px;
     right:-140px;
     z-index: -1;
-    background-image: url(/image/hero.png);
+    background-image: url(image/hero.png);
 }
 
 .hero-section .content{
@@ -263,7 +263,7 @@ span{
         right:-125px;
         background-size: cover;
 
-        background-image: url(/image/hero-menor.png);
+        background-image: url(image/hero-menor.png);
     }
     .grafico-flex{
         right: 0px;

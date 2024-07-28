@@ -76,7 +76,7 @@ h1{
     top: -100px;
     right:-140px;
     z-index: -1;
-    background-image:url(/img/hero.png);
+    background-image: url(/img/hero1.png);
 }
 
 .hero-section .content{

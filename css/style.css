@@ -267,7 +267,7 @@ span{
         right:-125px;
         background-size: cover;
 
-        background-image: url(image/hero-menor.png);
+        background-image: url(/image/hero-menor.png);
     }
     .grafico-flex{
         right: 0px;

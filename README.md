@@ -1,6 +1,4 @@
 
-![Logo](https://gilvan-borges.github.io/Crossfit-hardCore/logo1.svg)
-
 # Business Agency - Site de Agência de Negócios
 
 ## Descrição
